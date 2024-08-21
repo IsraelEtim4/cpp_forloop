@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\forLoop\\forLoopCRUD.csproj",
+      "projectUniqueName": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\forLoop\\forLoopCRUD.csproj",
       "projectName": "forLoopCRUD",
-      "projectPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\forLoop\\forLoopCRUD.csproj",
+      "projectPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\forLoop\\forLoopCRUD.csproj",
       "packagesPath": "C:\\Users\\EL'SOLO HUB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\forLoop\\obj\\",
+      "outputPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\forLoop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EL'SOLO HUB\\AppData\\Roaming\\NuGet\\NuGet.Config",
